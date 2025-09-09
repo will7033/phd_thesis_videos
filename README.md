@@ -3,7 +3,7 @@ Links to the videos accompanying my PhD Thesis: "3D Magnetic Vector Fields as an
 
 ## Chapter 4: Magnetic Vector Field Mapping and Localisation with Physics-Informed Sparse Gaussian Processes
 
-### Section 4.3.3.3: Global Localisation in GP Magnetic Maps - Ansys simulation
+### Section 4.3.3.3: Global Localisation in GP Magnetic Maps
 - Simulation video: https://youtu.be/wxNFypJu_DU
 - UTS Tech Lab video: https://youtu.be/x_XUpedlUIE
 
