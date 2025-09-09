@@ -1,6 +1,11 @@
 # PhD Thesis Videos
 Links to the videos accompanying my PhD Thesis: "3D Magnetic Vector Fields as an Unconventional Robotic Perception Modality".
 
+## Chapter 5: Mag-Match: Magnetic Vector Field Feature Detection and Description for Map Matching and Registration
+Demonstration video: https://youtu.be/xbHDUNFxOrA
+
+This video demonstrates Mag-Match: Magnetic Vector Field Features for Map Matching and Registration, and accompanies the paper submission to IROS 2025. It shows the different stages of the system with animations and images. It better conveys the processes involved than the images in the paper alone, particularly the recursive Gaussian Process as it integrates additional data and improves the accuracy of its inference.
+
 ## Chapter 6: Mag-Follow: Active Perception and Planning in Magnetic Vector Fields with Recursive Gaussian Processes
 
 ### Exploration of 3D magnetic vector field with different sampling budgets
