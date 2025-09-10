@@ -19,7 +19,7 @@ This video demonstrates Mag-Match: Magnetic Vector Field Features for Map Matchi
 ### Section 6.3.2.2: Active perception in 3D - Mag-Follow trajectories
 These videos demonstrate the exploration of Mag-Follow as it navigates a 3D magnetic vector field. The left figure shows the ground truth of this field. The right figure shows the field being continuously updated as more samples are acquired and the recursive Gaussian Process in Mag-Follow becomes more informed. A selection of sampling budgets show how the inferred field becomes more accurate as more samples are obtained.
 
-- 250 points: https://youtu.be/NqkmViNFX5c
-- 500 points: https://youtu.be/qT-awST4PEA
-- 750 points: https://youtu.be/lxttKkMIBGU
-- 1000 points: https://youtu.be/oq85O3FXS8o
+- 100 points: https://youtu.be/BGJH1l5Teek
+- 200 points: https://youtu.be/s9tTjr7V2zE
+- 300 points: https://youtu.be/AU10Mnc3gYA
+- 400 points: https://youtu.be/0VG8DcaAbH8
